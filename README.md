@@ -5,7 +5,7 @@ predictions.
 
 ## Project ToDo List
 
-- [ ] Make code outline.
+- [x] Make code outline.
 - [ ] Find source of data.
 - [ ] Create script to train model.
 - [ ] Create a script to display visualization.
