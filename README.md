@@ -6,7 +6,7 @@ predictions.
 ## Project ToDo List
 
 - [x] Make code outline.
-- [ ] Find source of data.
+- [x] Find source of data. (found for data from keggle.com)
 - [ ] Create script to train model.
 - [ ] Create a script to display visualization.
 
